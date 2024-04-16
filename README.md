@@ -12,7 +12,8 @@
 3. プリンタにデータを配信します。
 
 4. 配信したデータが全て印刷されるまで待ちます。
+5. 
    <img width="50%" src="https://docs.zebra.com/content/dam/techpubs/media/printers/industrial/zt4x0/g-zt4x0-label-comm-dgnstc-test.svg/jcr:content/renditions/original">
 
-5. 印刷データを確認します。
+6. 印刷データを確認します。
 
