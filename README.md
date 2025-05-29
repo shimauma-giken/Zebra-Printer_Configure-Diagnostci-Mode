@@ -35,12 +35,15 @@ Zebra-Printer_Configure Diagnostic Mode
     ! U1 setvar "device.diagnostic_print" "enabled"
     ```
 
-3. プリンタにデータを配信します。
+   ※ プリンタメニューで設定する場合は、ユーザーズガイドを参照ください。
+    
 
-4. 配信したデータが全て印刷されるまで待ちます。
+4. プリンタにデータを配信します。
+
+5. 配信したデータが全て印刷されるまで待ちます。
 
    <img width="50%" src="https://docs.zebra.com/content/dam/techpubs/media/printers/industrial/zt4x0/g-zt4x0-label-comm-dgnstc-test.svg/jcr:content/renditions/original">
 
-5. 印刷データを確認します。
+6. 印刷データを確認します。
 
-6. 診断モードを解除するにはプリンタを再起動してください。
+7. 診断モードを解除するにはプリンタを再起動してください。
