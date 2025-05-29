@@ -35,7 +35,7 @@ Zebra-Printer_Configure Diagnostic Mode
     ! U1 setvar "device.diagnostic_print" "enabled"
     ```
 
-   ※ プリンタメニューで設定する場合は、ユーザーズガイドを参照ください。
+   ※ プリンタメニューで設定する場合の手順は、ユーザーズガイドを参照ください。
     
 
 4. プリンタにデータを配信します。
