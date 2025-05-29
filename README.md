@@ -1,5 +1,5 @@
-# Zebra-Printer_Configure Diagnostci Mode
-プリンタ診断モードで受信データを取得する方法
+Zebra-Printer_Configure Diagnostic Mode
+# プリンタ診断モードで受信データを取得する方法
 
 想定した印刷ができないときに、まず切り分けるべきは下記いずれの状況が発生しているかです。   
 </br>
