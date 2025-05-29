@@ -3,7 +3,7 @@ Zebra-Printer_Configure Diagnostic Mode
 
 <img width="50%" src="https://www.zebra.com/content/dam/zebra_dam/global/zcom-web-production/web-production-photography/hero-photos/printer-supplies-photography-web-desktop-printer-labels-16x9-3600.jpg.imgw.3600.3600.jpg">
 
-想定した印刷ができないときに、まず切り分けるべきは下記いずれの状況が発生しているかです。   
+想定した印刷ができないときに、まず切り分けるポイントはプリンタが受信しているデータです。  
 </br>
 
 |状況| 対策|
